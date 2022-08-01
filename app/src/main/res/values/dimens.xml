@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingHorizontal">20dp</dimen>
+    <dimen name="paddingVertical">16dp</dimen>
+
+    <dimen name="marginHorizontal">16dp</dimen>
+    <dimen name="marginLeft">16dp</dimen>
+    <dimen name="marginRight">16dp</dimen>
+
+    <dimen name="spinnerHeight">50dp</dimen>
+    <dimen name="spinnerWidth">150dp</dimen>
+
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="buttonTextSize">14sp</dimen>
+
+
+</resources>
